@@ -8,14 +8,10 @@ This deep learning neural network is implemented with Pytorch framework. The mod
 The achieved F1-score is about 0.7.
 
 ### Result
+Input, Ground truth and prediction
 ![alt text](https://github.com/SWei017/U-Net/blob/main/results/input_01.png)
-
-Images
 
 ![alt text](https://github.com/SWei017/U-Net/blob/main/results/groundtruth_01.png)
 
-Ground truth images
-
 ![alt text](https://github.com/SWei017/U-Net/blob/main/results/prediction_01.png)
 
-Prediction
